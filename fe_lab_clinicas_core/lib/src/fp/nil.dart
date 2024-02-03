@@ -3,6 +3,6 @@ class Nil {
   String toString() {
     return 'Nil{}';
   }
-
-  Nil get nil => Nil();
 }
+
+Nil get nil => Nil();

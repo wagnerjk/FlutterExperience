@@ -3,6 +3,6 @@ final class Unit {
   String toString() {
     return 'Unit{}';
   }
-
-  Unit get unit => Unit();
 }
+
+Unit get unit => Unit();
